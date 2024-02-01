@@ -6,4 +6,6 @@ void main() {
   print(name);
 
   print(age);
+
+  print(bool);
 }
