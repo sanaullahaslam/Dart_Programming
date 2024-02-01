@@ -1,7 +1,5 @@
 void main() {
-  
   print("Hello world");
 
-  print("Hello Dart Programming")
-
+  print("Hello \nDart Programming");
 }
