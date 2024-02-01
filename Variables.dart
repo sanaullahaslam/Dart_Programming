@@ -4,4 +4,6 @@ void main() {
   var bool = 8 > 10;
 
   print(name);
+
+  print(age);
 }
